@@ -8,8 +8,8 @@ Incentivising Charity Accountability: An	examination of serious incident reporti
 Dr Diarmuid McDonnell 	
 https://youtu.be/qrZ2qT_1QJ4 
   
-Thurs 18th Oct 	 
-The Gender Pay Gap for Nonprofit Executives: Identification and Potential Remediation."  
+Thurs 18th Oct  
+The Gender Pay Gap for Nonprofit Executives: Identification and Potential Remediation  
 Dr Jesse Lecy & Dr Nathan Grasse  
 https://youtu.be/atgC8sEEulQ 
   
@@ -18,12 +18,13 @@ Collecting quantitative data among CEOs and directors: A series of (un)fortunate
 Dr Jurgen Willems  
 https://youtu.be/9WYx-QQCsxY   
   
-Thurs 13th Dec	 
+Thurs 13th Dec  
 Identifying fields and service areas using UK charity data  
 Dr Chris Damm & Dr Chris Dayson  
 https://youtu.be/Cw-Qm3Ar-68  
   
-Thurs 24th Jan  Understanding change in the charitable sector using administrative data  
+Thurs 24th Jan  
+Understanding change in the charitable sector using administrative data  
 Professor John Mohan  
 https://youtu.be/vkMzPowcg5c   
   
