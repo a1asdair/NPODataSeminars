@@ -1,10 +1,10 @@
 
-#Incentivising Charity Accountability: An examination of serious incident reporting 
-##Dr Diarmuid McDonnell
+*Incentivising Charity Accountability: An examination of serious incident reporting 
+**Dr Diarmuid McDonnell
 
 https://youtu.be/qrZ2qT_1QJ4
 
-##Links
+**Links
 https://diarmuidm.github.io/
 First paper: https://bit.ly/2wbGJBI
 OSCR and other charity regulators are increasingly engaging in open data initiatives:
@@ -13,7 +13,7 @@ England and Wales [https://bit.ly/1MP3vln]
 Northern Ireland [https://bit.ly/2pnHl4h]
 Republic of Ireland [https://bit.ly/2ppBnQg]
 
-##About the seminar series
+**About the seminar series
 The Nonprofit Data Seminar series is a monthly 'virtual' seminar series presenting research using data related to the nonprofit sector from around the world.
 
 All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) / 5pm (CET) and last for one hour.
