@@ -1,4 +1,4 @@
-# Nonproift Data Virtual Seminar Series
+# Nonprofit Data Virtual Seminar Series
 
 
 ## Seminar Programme 2018/2019
