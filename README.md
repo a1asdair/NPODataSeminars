@@ -2,8 +2,8 @@
 
 
 ## Seminar Programme 2018/2019
-
-Thurs 20th Sept	 
+  
+Thurs 20th Sept  
 Incentivising Charity Accountability: An	examination of serious incident reporting	 
 Dr Diarmuid McDonnell 	
 https://youtu.be/qrZ2qT_1QJ4 
