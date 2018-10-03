@@ -4,34 +4,38 @@
 The Nonprofit Data Seminar series is a monthly 'virtual' seminar series presenting research using data related to the nonprofit sector from around the world. The Seminar Series is coordinated by Professor Alasdair Rutherford at the University of Stirling. If you are interested in presenting at a future seminar please contact Alasdair at alasdair.rutherford@stir.ac.uk
 
 
-## Seminar Programme 2018/2019
-  
-**Thurs 20th Sept 2018**  
-Incentivising Charity Accountability: An	examination of serious incident reporting	 
-Dr Diarmuid McDonnell 	
-https://youtu.be/qrZ2qT_1QJ4 
+## Upcoming Seminars 2018/2019
   
 **Thurs 18th Oct 2018**  
 The Gender Pay Gap for Nonprofit Executives: Identification and Potential Remediation  
 Dr Jesse Lecy & Dr Nathan Grasse  
-https://youtu.be/atgC8sEEulQ 
+WATCH: https://youtu.be/atgC8sEEulQ 
   
 **Thurs 22nd Nov 2018**  
 Collecting quantitative data among CEOs and directors: A series of (un)fortunate events  
 Dr Jurgen Willems  
-https://youtu.be/9WYx-QQCsxY   
+WATCH: https://youtu.be/9WYx-QQCsxY   
   
 **Thurs 13th Dec 2018**  
 Identifying fields and service areas using UK charity data  
 Dr Chris Damm & Dr Chris Dayson  
-https://youtu.be/Cw-Qm3Ar-68  
+WATCH: https://youtu.be/Cw-Qm3Ar-68  
   
 **Thurs 24th Jan 2019**  
 Understanding change in the charitable sector using administrative data  
 Professor John Mohan  
-https://youtu.be/vkMzPowcg5c   
+WATCH: https://youtu.be/vkMzPowcg5c   
   
 All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) / 5pm (CET) and last for one hour.  
+
+
+## Past Seminars  
+  
+**Thurs 20th Sept 2018**  
+Incentivising Charity Accountability: An	examination of serious incident reporting  
+Dr Diarmuid McDonnell 	
+WATCH: https://youtu.be/qrZ2qT_1QJ4 
+SLIDES: https://github.com/a1asdair/NPODataSeminars/tree/master/Seminar1-DM-20Sept18  
 
 The virtual seminars can be viewed live through YouTube. Questions for the presenters can be submitted as YouTube comments. No log-in is required to view the seminar but you will need a Google Account to leave comments. A recording of the seminar will be available on YouTube after the event.
 
