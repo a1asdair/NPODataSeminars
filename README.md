@@ -7,22 +7,22 @@ The Nonprofit Data Seminar series is a monthly 'virtual' seminar series presenti
 ## Upcoming Seminars 2018/2019
   
 **Thurs 18th Oct 2018**  
-The Gender Pay Gap for Nonprofit Executives: Identification and Potential Remediation  
+_The Gender Pay Gap for Nonprofit Executives: Identification and Potential Remediation_  
 Dr Jesse Lecy & Dr Nathan Grasse  
 WATCH: https://youtu.be/atgC8sEEulQ 
   
 **Thurs 22nd Nov 2018**  
-Collecting quantitative data among CEOs and directors: A series of (un)fortunate events  
+_Collecting quantitative data among CEOs and directors: A series of (un)fortunate events_  
 Dr Jurgen Willems  
 WATCH: https://youtu.be/9WYx-QQCsxY   
   
 **Thurs 13th Dec 2018**  
-Identifying fields and service areas using UK charity data  
+_Identifying fields and service areas using UK charity data_  
 Dr Chris Damm & Dr Chris Dayson  
 WATCH: https://youtu.be/Cw-Qm3Ar-68  
   
 **Thurs 24th Jan 2019**  
-Understanding change in the charitable sector using administrative data  
+_Understanding change in the charitable sector using administrative data_  
 Professor John Mohan  
 WATCH: https://youtu.be/vkMzPowcg5c   
   
@@ -33,7 +33,7 @@ All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) /
   
 **Thurs 20th Sept 2018**  
 Incentivising Charity Accountability: An	examination of serious incident reporting  
-Dr Diarmuid McDonnell 	
+Dr Diarmuid McDonnell  
 WATCH: https://youtu.be/qrZ2qT_1QJ4 
 SLIDES: https://github.com/a1asdair/NPODataSeminars/tree/master/Seminar1-DM-20Sept18  
 
