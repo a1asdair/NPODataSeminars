@@ -26,7 +26,7 @@ _Understanding change in the charitable sector using administrative data_
 Professor John Mohan  
 WATCH: https://youtu.be/vkMzPowcg5c   
   
-All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) / 5pm (CET) and last for one hour.  
+All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) / 5pm (CET) ) / 8:30pm (IST) and last for one hour.  
 
 
 ## Past Seminars  
