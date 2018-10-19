@@ -32,12 +32,13 @@ All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) /
 _The Gender Pay Gap for Nonprofit Executives: Identification and Potential Remediation_  
 Dr Jesse Lecy & Dr Nathan Grasse  
 WATCH: https://youtu.be/atgC8sEEulQ  
+SLIDES: https://github.com/a1asdair/NPODataSeminars/tree/master/Seminar2-JLNG-18Oct18  
 
 
 **Thurs 20th Sept 2018**  
 Incentivising Charity Accountability: An	examination of serious incident reporting  
 Dr Diarmuid McDonnell  
-WATCH: https://youtu.be/qrZ2qT_1QJ4 
+WATCH: https://youtu.be/qrZ2qT_1QJ4  
 SLIDES: https://github.com/a1asdair/NPODataSeminars/tree/master/Seminar1-DM-20Sept18  
 
 The virtual seminars can be viewed live through YouTube. Questions for the presenters can be submitted as YouTube comments. No log-in is required to view the seminar but you will need a Google Account to leave comments. A recording of the seminar will be available on YouTube after the event.
