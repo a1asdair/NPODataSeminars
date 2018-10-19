@@ -6,11 +6,7 @@ The Nonprofit Data Seminar series is a monthly 'virtual' seminar series presenti
 
 ## Upcoming Seminars 2018/2019
   
-**Thurs 18th Oct 2018**  
-_The Gender Pay Gap for Nonprofit Executives: Identification and Potential Remediation_  
-Dr Jesse Lecy & Dr Nathan Grasse  
-WATCH: https://youtu.be/atgC8sEEulQ 
-  
+ 
 **Thurs 22nd Nov 2018**  
 _Collecting quantitative data among CEOs and directors: A series of (un)fortunate events_  
 Dr Jurgen Willems  
@@ -31,6 +27,13 @@ All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) /
 
 ## Past Seminars  
   
+  
+**Thurs 18th Oct 2018**  
+_The Gender Pay Gap for Nonprofit Executives: Identification and Potential Remediation_  
+Dr Jesse Lecy & Dr Nathan Grasse  
+WATCH: https://youtu.be/atgC8sEEulQ  
+
+
 **Thurs 20th Sept 2018**  
 Incentivising Charity Accountability: An	examination of serious incident reporting  
 Dr Diarmuid McDonnell  
