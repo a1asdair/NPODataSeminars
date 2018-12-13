@@ -6,11 +6,7 @@ The Nonprofit Data Seminar series is a monthly 'virtual' seminar series presenti
 
 ## Upcoming Seminars 2018/2019
   
- 
-**Thurs 13th Dec 2018**  
-_Identifying fields and service areas using UK charity data_  
-Dr Chris Damm & Dr Chris Dayson  
-WATCH: https://youtu.be/Cw-Qm3Ar-68  
+
   
 **Thurs 24th Jan 2019**  
 _Understanding change in the charitable sector using administrative data_  
@@ -22,7 +18,14 @@ All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) /
 
 ## Past Seminars  
   
-   
+ 
+**Thurs 13th Dec 2018**  
+_Identifying fields and service areas using UK charity data_  
+Dr Chris Damm
+WATCH: https://youtu.be/Cw-Qm3Ar-68  
+SLIDES: https://github.com/a1asdair/NPODataSeminars/tree/master/Seminar4-CD-13Dec18
+  
+  
 **Thurs 18th Oct 2018**  
 _The Gender Pay Gap for Nonprofit Executives: Identification and Potential Remediation_  
 Dr Jesse Lecy & Dr Nathan Grasse  
