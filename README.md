@@ -22,12 +22,6 @@ All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) /
 
 ## Past Seminars  
   
- 
-**Thurs 22nd Nov 2018**  
-_Collecting quantitative data among CEOs and directors: A series of (un)fortunate events_  
-Dr Jurgen Willems  
-WATCH: https://youtu.be/9WYx-QQCsxY   
-SLIDES: https://github.com/a1asdair/NPODataSeminars/tree/master/Seminar3-JW-22Nov18 
    
 **Thurs 18th Oct 2018**  
 _The Gender Pay Gap for Nonprofit Executives: Identification and Potential Remediation_  
