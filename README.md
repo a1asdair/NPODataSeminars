@@ -21,7 +21,7 @@ All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) /
  
 **Thurs 13th Dec 2018**  
 _Identifying fields and service areas using UK charity data_  
-Dr Chris Damm
+Dr Chris Damm  
 WATCH: https://youtu.be/Cw-Qm3Ar-68  
 SLIDES: https://github.com/a1asdair/NPODataSeminars/tree/master/Seminar4-CD-13Dec18
   
