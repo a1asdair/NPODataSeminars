@@ -14,7 +14,7 @@ WATCH: https://youtu.be/Olmx1hmXzZQ
 NB. Due to differences in Daylight Savings time this seminar is at 9am (West Coast US) / 10am (East Coast US) / 4pm (UK) / 5pm (CET) ) / 9:30pm (IST)
   
 **Thurs 18th Apr 2019**  
-_The Big Bird Gets The Worm? How Size Influences Social Networking By Charitable Organizations_
+_The Big Bird Gets The Worm? How Size Influences Social Networking By Charitable Organizations_  
 Tom Wallace  
 WATCH: https://youtu.be/jlHhNFlD4uY
   
