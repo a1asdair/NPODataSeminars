@@ -4,7 +4,7 @@
 The Nonprofit Data Seminar series is a monthly 'virtual' seminar series presenting research using data related to the nonprofit sector from around the world. The Seminar Series is coordinated by Professor Alasdair Rutherford at the University of Stirling. If you are interested in presenting at a future seminar please contact Alasdair at alasdair.rutherford@stir.ac.uk
 
 
-## Upcoming Seminars 2018/2019
+## Upcoming Seminars 2019
   
   
 **Thurs 28th Mar 2019**  
