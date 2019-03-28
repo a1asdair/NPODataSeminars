@@ -10,7 +10,7 @@ The Nonprofit Data Seminar series is a monthly 'virtual' seminar series presenti
 **Thurs 28th Mar 2019**  
  _Geodata in Nonprofit Sector Research_  
 Dr Astrid Pennerstorfer  
-WATCH: https://youtu.be/Olmx1hmXzZQ
+WATCH: https://youtu.be/Olmx1hmXzZQ  
 NB. Due to differences in Daylight Savings time this seminar is at 9am (West Coast US) / 10am (East Coast US) / 4pm (UK) / 5pm (CET) ) / 9:30pm (IST)
   
 **Thurs 18th Apr 2019**  
