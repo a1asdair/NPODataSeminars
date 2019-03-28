@@ -6,17 +6,35 @@ The Nonprofit Data Seminar series is a monthly 'virtual' seminar series presenti
 
 ## Upcoming Seminars 2018/2019
   
+  
+**Thurs 28th Mar 2019**  
+ _Geodata in Nonprofit Sector Research_  
+Dr Astrid Pennerstorfer  
+WATCH: https://youtu.be/Olmx1hmXzZQ
+NB. Due to differences in Daylight Savings time this seminar is at 9am (West Coast US) / 10am (East Coast US) / 4pm (UK) / 5pm (CET) ) / 9:30pm (IST)
+  
+**Thurs 18th Apr 2019**  
+_The Big Bird Gets The Worm? How Size Influences Social Networking By Charitable Organizations_
+Tom Wallace  
+WATCH: https://youtu.be/jlHhNFlD4uY
+  
+**Thurs 30th May 2019**  
+Dr Elizabeth Searing  
+WATCH: https://youtu.be/i9ezrjlo1Xk
 
+All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) / 5pm (CET) ) / 8:30pm (IST) and last for one hour. 
   
-**Thurs 24th Jan 2019**  
-_Understanding change in the charitable sector using administrative data_  
-Professor John Mohan  
-WATCH: https://youtu.be/vkMzPowcg5c   
-  
-All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) / 5pm (CET) ) / 8:30pm (IST) and last for one hour.  
+
+
 
 
 ## Past Seminars  
+  
+**Thurs 24th Jan 2019**   
+ _Understanding change in the charitable sector using administrative data_  
+Professor John Mohan  
+WATCH: https://youtu.be/vkMzPowcg5c   
+  
   
  
 **Thurs 13th Dec 2018**  
