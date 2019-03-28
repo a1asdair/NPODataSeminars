@@ -34,7 +34,7 @@ All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) /
  _Understanding change in the charitable sector using administrative data_  
 Professor John Mohan  
 WATCH: https://youtu.be/vkMzPowcg5c   
-  
+SLIDES: https://github.com/a1asdair/NPODataSeminars/tree/master/seminar5-jm-jan19/NFPdatWebinar.ppt  
   
  
 **Thurs 13th Dec 2018**  
