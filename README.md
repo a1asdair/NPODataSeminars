@@ -19,7 +19,7 @@ Tom Wallace
 WATCH: https://youtu.be/jlHhNFlD4uY
   
 **Thurs 30th May 2019**  
-_The Promise and Perils of Comparing Nonprofit Data across Borders  
+_The Promise and Perils of Comparing Nonprofit Data across Borders_  
 Dr Elizabeth Searing  
 WATCH: https://youtu.be/i9ezrjlo1Xk
 
