@@ -28,13 +28,14 @@ All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) /
 _The Big Bird Gets The Worm? How Size Influences Social Networking By Charitable Organizations_  
 Tom Wallace  
 WATCH: https://youtu.be/jlHhNFlD4uY
+SLIDES:https://github.com/a1asdair/NPODataSeminars/blob/master/Seminar7-TW-18April19/TomWallace_Webinar%20slides.pptx
   
   
 **Thurs 28th Mar 2019**  
 _Geodata in Nonprofit Sector Research_  
 Dr Astrid Pennerstorfer  
 WATCH: https://youtu.be/Olmx1hmXzZQ  
-NB. Due to differences in Daylight Savings time this seminar is at 9am (West Coast US) / 10am (East Coast US) / 4pm (UK) / 5pm (CET) ) / 9:30pm (IST)
+SLIDES: https://github.com/a1asdair/NPODataSeminars/blob/master/Seminar6-AP-28Mar19/Slides_Virtual%20seminar0319_wustyle.pdf
   
  
 **Thurs 24th Jan 2019**   
