@@ -6,24 +6,22 @@ The Nonprofit Data Seminar series is a monthly 'virtual' seminar series presenti
 
 ## Upcoming Seminars 2019
   
-  
-
-
-  
-**Thurs 30th May 2019**  
-_The Promise and Perils of Comparing Nonprofit Data across Borders_  
-Dr Elizabeth Searing  
-WATCH: https://youtu.be/i9ezrjlo1Xk
-
-All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) / 5pm (CET) ) / 8:30pm (IST) and last for one hour. 
-  
+Our seminar series will restart in September 2019. Check back here for programme details.  
 
 
 
 
 ## Past Seminars  
 
+ 
   
+**Thurs 30th May 2019**  
+_The Promise and Perils of Comparing Nonprofit Data across Borders_  
+Dr Elizabeth Searing  
+WATCH: https://youtu.be/i9ezrjlo1Xk
+
+All seminars are held at 8am (West Coast US) / 11am (East Coast US) / 4pm (UK) / 5pm (CET) ) / 8:30pm (IST) and last for one hour.  
+ 
 **Thurs 18th Apr 2019**  
 _The Big Bird Gets The Worm? How Size Influences Social Networking By Charitable Organizations_  
 Tom Wallace  
